@@ -93,3 +93,5 @@ npm install
 npm run dev
 ```
 Open your browser at `http://localhost:5173`. Toggle **Demo Mode** to test with the built-in simulator or turn it OFF to receive live hardware telemetry!
+
+<!-- Project maintained by shantanu8506 -->
